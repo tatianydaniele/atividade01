@@ -1,8 +1,8 @@
 function podeDirigir(idade) {
     if (idade >= 18) {
-        console.log("Você pode dirigir!");
+        console.log("Parabéns!Você pode dirigir!");//alterado frase 01
     } else {
-        console.log("Você NÃO pode dirigir!");
+        console.log("Que pena!Você NÃO pode dirigir!");//alterado frase 02
     }
 }
 
